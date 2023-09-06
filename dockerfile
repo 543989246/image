@@ -1,1 +1,1 @@
-FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11.1
+FROM gcr.io/cadvisor/cadvisor:v0.47.2
