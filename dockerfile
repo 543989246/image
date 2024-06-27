@@ -1,1 +1,1 @@
-FROM prom/prometheus:v2.47.2
+FROM prom/node-exporter:v1.5.0
