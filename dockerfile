@@ -1,1 +1,1 @@
-FROM gcmirrors/kube-state-metrics-amd64:v1.7.1
+FROM prom/alertmanager:v0.25.0
