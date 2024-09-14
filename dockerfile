@@ -1,1 +1,1 @@
-FROM prom/alertmanager:v0.25.0
+FROM registry.k8s.io/ingress-nginx/controller:v1.10.4@sha256:505b9048c02dde3d6c8667bf0b52aba7b36adf7b03da34c47d5fa312d2d4c6fc
