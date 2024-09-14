@@ -1,1 +1,1 @@
-FROM registry.k8s.io/ingress-nginx/controller:v1.10.4@sha256:505b9048c02dde3d6c8667bf0b52aba7b36adf7b03da34c47d5fa312d2d4c6fc
+FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3@sha256:a320a50cc91bd15fd2d6fa6de58bd98c1bd64b9a6f926ce23a600d87043455a3
