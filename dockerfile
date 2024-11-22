@@ -1,1 +1,1 @@
-FROM registry.k8s.io/kube-scheduler:v1.29.11
+FROM registry.k8s.io/kube-proxy:v1.29.11
