@@ -1,1 +1,1 @@
-FROM  registry.k8s.io/etcd:3.5.16-0
+FROM  docker.io/calico/cni:v3.29.1
